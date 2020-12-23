@@ -2,6 +2,6 @@
   "name": "test-bot",
   "language": "javascript",
   "manager": "npm",
-  "token": "NzkwOTczNjc2ODU3NDU4Njg5.X-IZpA.SH7aINu_M4A21vkjLFJkfCHJaGk",
-  "prefix": "$"
+  "token": "YOUR_BOT_TOKEN",
+  "prefix": "YOUR_BOT_PREFIX"
 }
